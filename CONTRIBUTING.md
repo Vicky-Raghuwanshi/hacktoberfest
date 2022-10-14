@@ -2397,3 +2397,8 @@
 ### NAME: [idkroff](https://github.com/idkroff)
 - Bio: Student
 - Github: [idkroff](https://github.com/idkroff)
+
+### NAME: [Vicky Raghuwanshi](https://github.com/Vicky-Raghuwanshi)
+- Place: Madhya Pradesh, India
+- Bio: Computer Science Student
+- Github: [Vicky Raghuwanshi](https://github.com/Vicky-Raghuwanshi)
